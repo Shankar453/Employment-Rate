@@ -1,0 +1,95 @@
+Shankar Devkota
+
+18/10/2023
+
+**Documentation: UK Employment Statistics by Ethnicity**
+
+Table of Contents
+
+1. Introduction
+1. Dataset Overview
+1. Data Cleansing and Preprocessing
+1. Data Exploration
+1. Visualisation
+1. Conclusion	
+1. Recommendations
+1. Limitations
+1. References	
+
+
+1. **Introduction**
+
+`                `This report presents a comprehensive analysis of employment statistics by ethnicity in the United Kingdom for the years 2021 and 2022. Focusing on key ethnic groups, including White, Ethnic Minority, Mixed Ethnic Group, Indians, Pakistanis/Bangladeshis, Black or Black British, and Other Ethnic Groups, the analysis explores employment trends and disparities across various UK regions. The dataset encompasses the number of working-age individuals, the total working-age population, and the working-age employment rates, shedding light on crucial socio-economic dynamics. By examining this data, we aim to provide valuable insights into the employment landscape for diverse ethnic groups and their experiences in different regions of the UK.
+
+
+
+1. **Dataset Overview**
+
+The dataset under analysis encompasses employment statistics by ethnicity across the United Kingdom, covering the years 2021 and 2022. This dataset is structured as a tabular format, with each row representing a specific geographical area or region in the UK. The key variables in the dataset include:
+
+- Code: A unique identifier for each region.
+- Area: The name of the geographical area within the UK.
+- Number of Working Age People Working - [Ethnicity]: The number of individuals of a specific ethnicity in the working-age population.
+- Total Number of Working Age People - [Ethnicity]: The total number of individuals of a specific ethnicity in the working-age population.
+- Working Age Employment Rate - [Ethnicity]: The employment rate for the ethnicity, represented as a percentage.
+
+This dataset is organized into worksheets corresponding to the years 2021 and 2022. The dataset allows us to explore employment patterns and disparities among various ethnic groups and regions in the UK.
+
+1. **Data cleansing and preprocessing**
+
+The dataset used in this analysis was sourced from an official government website, ensuring its reliability and accuracy. To prepare the data for analysis, a few essential preprocessing steps were conducted. Unnecessary columns were removed to focus on the key variables of interest. It is worth noting that some records contained missing data points, particularly in certain columns. These missing values were handled appropriately to ensure that the analysis provides a comprehensive view of the employment statistics by ethnicity for the United Kingdom.
+
+1. **Data Exploration**
+
+In this section, we explore the employment statistics by ethnicity in the United Kingdom, focusing on the years 2021 and 2022. The analysis reveals fascinating trends and disparities across various ethnic groups and regions.
+
+i. Employment Rates by Ethnicity
+
+We begin by examining the working age employment rates for different ethnic groups. Key findings include:
+
+In 2021, the employment rate for the White ethnic group was 77.62%, while in 2022, it was 78.79%.
+
+Ethnic Minority employment rates in 2021 and 2022 were 69.00% and 70.67%, showcasing slightly increasing the employment rate.
+
+We also explore employment rates for specific ethnic groups, such as Indians, Pakistanis/Bangladeshis, Black or Black British, and Other Ethnic Groups, unveiling noteworthy variations and developments over the two years.
+
+ii. Regional Disparities
+
+The analysis extends to regional variations, shedding light on employment dynamics across different areas. Notable findings include:
+
+Region of City of London council displayed the highest employment rate in both 2021 and 2022, with 100% in both year.
+
+Region of Westminster council, on the other hand, experienced lower employment rates in both years.
+
+iii. Year-on-Year Comparisons
+
+By comparing 2021 and 2022, we identify critical year-on-year changes:
+
+The overall employment rate in the UK exhibited 71.14% in 2021 and increase to 73.18% in 2022 probably influenced by ease in covid restrictions.
+
+White ethnicities have average employment rate of 77.61% in 2021 and 78.79% in 2022. Indians have highest employment rate with 80% in both years.
+
+1. **Visualisation**
+
+In this section, we present a variety of data visualizations that enhance our analysis of employment statistics by ethnicity in the United Kingdom for the years 2021 and 2022. We employ bar graphs to compare employment rates between different ethnic groups and across years, histograms to explore the distribution of employment rates, and box plots to gain insights into the variability within specific ethnic groups. Additionally, we utilize figures to provide a visual summary of key findings. These visualizations help convey our analysis results effectively and make the data more accessible to the audience, contributing to a comprehensive understanding of the employment landscape across ethnicities and years.![im2](im2.png)  ![im1](im1.png) ![im3](im3.png) ![im4](im4.png) ![im5]im5.png![im6]im6.png. ![im7]im7.png. ![im8]im8.png. ![im9]im9.png. ![im10]im10.png  ![im11]im11.png ![im12]im12.png  ![im13]im13.png ![im14]im14.png
+1. **Conclusion** 
+
+The analysis of employment statistics by ethnicity in the United Kingdom for the years 2021 and 2022 has yielded valuable insights into the disparities and trends within the working-age population. Our examination of various ethnic groups revealed notable variations in employment rates. While the data showcases consistent overall employment improvements from 2021 to 2022, it also highlights disparities, with some ethnic groups experiencing higher rates of employment than others. The robust visualizations, including bar graphs, histograms, and box plots, have been instrumental in conveying these findings. These disparities underscore the importance of addressing equity and inclusion in the workforce, and policymakers can leverage this information to design targeted interventions that bridge the gaps in employment opportunities among different ethnic communities. This analysis provides a foundation for more detailed investigations and underscores the significance of ongoing data collection and research in this critical area.
+
+1. **Recommendations**
+
+Based on the analysis of employment statistics by ethnicity in the United Kingdom, several recommendations emerge. Firstly, it's imperative to develop targeted policies and programs to address the employment disparities among different ethnic groups. This may involve offering skill development and training initiatives tailored to communities facing lower employment rates. Additionally, companies and organizations should prioritize diversity and inclusion efforts, striving to create equitable workplaces that welcome individuals from all backgrounds. Furthermore, ongoing data collection and analysis in this domain are vital, allowing for the continuous monitoring of employment trends and the evaluation of the effectiveness of implemented policies. Collaborations between government agencies, businesses, and community organizations can play a pivotal role in creating a more inclusive and equitable labour market. These recommendations underscore the need for a holistic approach to ensure that employment opportunities are accessible to all, irrespective of ethnicity.
+
+1. **Limitations** 
+- Incomplete Data: The dataset contains missing values in some columns, which can limit the accuracy of the analysis, especially when comparing ethnic groups or areas.
+- Lack of Granularity: Data is provided at the area level, potentially missing finer geographical disparities, or community-specific variations.
+- Confounding Factors: The analysis doesn't account for various factors influencing employment rates, such as education, discrimination, and regional economic conditions, which could affect the results.
+- Changing Demographics: The dataset doesn't consider changing ethnic compositions within regions due to migration and demographic shifts, which can influence employment rates.
+- External Factors: Employment rates are susceptible to external factors like government policies, economic conditions, and global events. The data does not isolate the effects of these factors.
+
+- Data Collection Methods: The report lacks information on data collection methods, which could introduce biases or affect data quality.
+- Quality of Source Data: The accuracy and reliability of the data depend on the source, and errors or discrepancies in reporting can affect the analysis.
+
+1. **References**
+
+   *Employment rates by ethnicity* (2023) *London Datastore News*. Available at: https://data.london.gov.uk/dataset/employment-rates-by-ethnicity (Accessed: 18 October 2023). 
